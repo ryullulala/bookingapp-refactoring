@@ -1,4 +1,3 @@
-# bookingapp2
-bookingapp-refactoring
+# bookingapp-refactoring
 
 (jsp&servlet + oracle) + SPRING
